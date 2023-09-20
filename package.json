@@ -1,6 +1,6 @@
 {
   "name": "tugas",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://github.com/231110171/cobacoba/blob/main/src/main.jsx",
   "type": "module",
